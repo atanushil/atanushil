@@ -13,10 +13,11 @@ align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/
   width="20"
   alt="India">
 </p>
-🔭 I’m currently working on <a  target="_blank" href="https://sweet-home-page.vercel.app/#gsc.tab=0" >Google Home page</a>
-
+<p>
+🔭 I’m currently working on <a  target="_blank" href="https://sweet-home-page.vercel.app/#gsc.tab=0" >Google Home page</a></p>
+<p>
 💬 Ask me about **Building full-stack applications using MongoDB, Express.js, React,Next.js and Node.js (MERN)**
-<h3>Things I code with</h3>
+<h3>Things I code with</h3></p>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-45b8d8?style=flat-square&logo=c&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
