@@ -1,4 +1,4 @@
-<><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 <p align="right"><img src="https://komarev.com/ghpvc/?username=atanushil&label=Profile%20views&color=0e75b6&style=flat" alt="atanushil" /></p></h1>
 
 
@@ -44,9 +44,9 @@
 
 
 <div align="left">
+<h1 align="left">GitHub Stats</h1>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=atanushil&show_icons=true&locale=en" alt="atanushil" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanushil&" alt="atanushil" />
   </p>
 </div>
 
