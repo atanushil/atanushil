@@ -16,7 +16,7 @@ align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/
 <p>
 🔭 I’m currently working on <a  target="_blank" href="https://sweet-home-page.vercel.app/#gsc.tab=0" >Google Home page</a></p>
 <p>
-💬 Ask me about **Building full-stack applications using MongoDB, Express.js, React,Next.js and Node.js (MERN)**
+💬 Ask me about <b>Building full-stack applications using MongoDB, Express.js, React,Next.js and Node.js (MERN)</b>
 <h3>Things I code with</h3></p>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-45b8d8?style=flat-square&logo=c&logoColor=white"/>
