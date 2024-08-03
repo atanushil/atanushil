@@ -1,7 +1,8 @@
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="emoji"/>
-  <span style="vertical-align: middle;">Hey! Nice to see you.</span>
-  <img src="https://komarev.com/ghpvc/?username=atanushil&label=Profile%20views&color=0e75b6&style=flat" alt="atanushil" style="float: right;"/>
+  
+
+  <span style="vertical-align: middle;">Hey!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" alt="emoji"/> Nice to see you</span>
+  <img src="https://komarev.com/ghpvc/?username=atanushil&label=Profile%20views&color=0e75b6&style=flat" alt="atanushil" align="right" style="float: right;"/>
 </h1>
 
 
