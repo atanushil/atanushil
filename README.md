@@ -7,7 +7,7 @@ align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/
 </h1>
 
 
-<p>Welcome to my page! </br> I'm Atanu, Fullstack developer from <b>West Bengal, India </b> <img
+<p>Welcome to my page! </br> I'm Atanu, Full stack developer from <b>West Bengal, India </b> <img
   src="https://flagcdn.com/w20/in.png"
   srcset="https://flagcdn.com/w40/in.png 2x"
   width="20"
