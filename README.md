@@ -1,6 +1,6 @@
 <p>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="emoji"/>
-  <h1 style="vertical-align: middle;">Hey! Nice to see you.</h1>
+  <p style="vertical-align: middle;">Hey! Nice to see you.</p>
   <img src="https://komarev.com/ghpvc/?username=atanushil&label=Profile%20views&color=0e75b6&style=flat" alt="atanushil" style="float: right;"/>
 </p>
 
