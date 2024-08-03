@@ -1,8 +1,8 @@
-<p>
+<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="emoji"/>
-  <p style="vertical-align: middle;">Hey! Nice to see you.</p>
+  <span style="vertical-align: middle;">Hey! Nice to see you.</span>
   <img src="https://komarev.com/ghpvc/?username=atanushil&label=Profile%20views&color=0e75b6&style=flat" alt="atanushil" style="float: right;"/>
-</p>
+</h1>
 
 
 <p>Welcome to my page! </br> I'm Atanu, Fullstack developer from <b>West Bengal, India </b> <img
