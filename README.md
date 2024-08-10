@@ -13,6 +13,7 @@ align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/
   width="20"
   alt="India">
 </p>
+<p>Currently learning Advance frontend development with a focus on  <b> Three.js & GSAP </b><p/>
 <!-- <p> 🔭 I’m currently working on <a  target="_blank" href="https://github.com/atanushil/Bite-Now.git" >Bite Now</a></p> -->
 <p>
 💬 Ask me about <b>Building full-stack applications using PostgreeSQl, Express.js, React,Next.js and Node.js</b>
