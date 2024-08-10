@@ -14,7 +14,7 @@ align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/
   alt="India">
 </p>
 <p>
-🔭 I’m currently working on <a  target="_blank" href="https://github.com/atanushil/Bite-Now.git" >Bite Now</a></p>
+# 🔭 I’m currently working on <a  target="_blank" href="https://github.com/atanushil/Bite-Now.git" >Bite Now</a></p>
 <p>
 💬 Ask me about <b>Building full-stack applications using MongoDB, Express.js, React,Next.js and Node.js (MERN)</b>
 <h3>Things I code with</h3></p>
